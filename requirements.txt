@@ -1,0 +1,8 @@
+flask
+flask-cors
+flask-mysqldb
+openai
+python-dotenv
+werkzeug
+Flask==2.2.5
+gunicorn==20.1.0
